@@ -5,8 +5,8 @@
 # Working Experience:
 
 - Computer Vision Research Scientist, Samsung Research America
-- C++ Engineer WellinTech
-- Computer Vision Engineer Deep Glint
+- C++ Engineer, WellinTech
+- Computer Vision Engineer, Deep Glint
 
 # Research Topic, Projects, and Papers
 
