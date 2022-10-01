@@ -2,6 +2,11 @@
 
 🔭 - Right now I'm a Ph.D. student at University of Texas at San Antonio. 
 
+# Working Experience:
+
+- Computer Vision Research Scientist, Samsung Research America
+- C++ Engineer WellinTech
+- Computer Vision Engineer Deep Glint
 
 # Research Topic, Projects, and Papers
 
