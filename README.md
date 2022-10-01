@@ -10,7 +10,7 @@
 
 # Research Topic, Projects, and Papers
 
-🌱 My research is mainly focuses on:
+🌱 My primary areas of research are:
 
 - 3D Computer Vision in multiview geometry 
   - Note book for *Multiple view geometry in computer vision* <https://github.com/baoguoma/note-for-MVG>
