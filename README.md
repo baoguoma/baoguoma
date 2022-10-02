@@ -4,9 +4,9 @@
 
 # Working Experience:
 
-- *Computer Vision Research Scientist*, *S*amsung *R*esearch *A*merica, Intern
-- *C++ Engineer*, *W*ellinTech, Full-time
-- *Computer Vision Engineer*, *D*eep *G*lint, Intern
+- **Computer Vision Research Scientist**, **S**amsung **R**esearch **A**merica, Intern
+- **C++ Engineer**, **W**ellinTech, Full-time
+- **Computer Vision Engineer**, **D**eep **G**lint, Intern
 
 # Research Topic, Projects, and Papers
 
