@@ -24,7 +24,7 @@
   - Small and Simple Visual Odometry <https://github.com/baoguoma/StudySLAM>
 
 - C++.
-  - C++ traning and testing interface of tensorflow for objects detection and segmentation <https://github.com/baoguoma/tf_cpp_train_seg_and-_detect>
+  - C++ training and testing interface of tensorflow for objects detection and segmentation <https://github.com/baoguoma/tf_cpp_train_seg_and-_detect>
   - C++ deploy deep learning model <https://github.com/baoguoma/Depth-Estimation-in-OpenCV-Cpp>
 
 - ⚡ Other Funny Things:
