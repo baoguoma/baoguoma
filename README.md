@@ -1,9 +1,9 @@
 # Hi there 👋
 
-🔭 - Right now I'm a Ph.D. student at University of Texas at San Antonio. 
+🔭 -In April 2023, I successfully defended my doctoral dissertation. The title is "Enhancing Depth Estimation in Adverse Lighting Scenarios for Autonomous Driving"
 
 # Working Experience:
-
+- **Senior C++ Engineer** MathWorks, Full-time
 - **Computer Vision Research Scientist**, **S**amsung **R**esearch **A**merica, Intern
 - **C++ Engineer**, **W**ellinTech, Full-time
 - **Computer Vision Engineer**, **D**eep **G**lint, Intern
